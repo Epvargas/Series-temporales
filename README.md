@@ -1,4 +1,4 @@
-# Curso avanzado de Series Temporales con R y Python
+# Series Temporales con R y Python (Avanzado)
 
 
 Ya sea que queremos predecir la tendencia en los mercados financieros o el consumo de electricidad, el tiempo es un factor importante que  debe considerarse en nuestros modelos. Por ejemplo, sería interesante pronosticar a qué hora del día habrá un consumo máximo de electricidad, como ajustar el precio o la producción de electricidad, o como consumidor, cuándo poner los electrodomésticos que más consumen para ahorrarnos dinero.
